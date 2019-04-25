@@ -1,2 +1,2 @@
-# essays
- 记录一些我的奇怪想法、YY和笔记。
+# To Learn essential c# 6.0 to Create
+# record My Learn C#
