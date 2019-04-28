@@ -1,2 +1,2 @@
-# To Learn essential c# 6.0 to Create
-# record My Learn C#
+
+# 记录我的 essential c#6.0 学习之路
